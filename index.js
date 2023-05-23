@@ -1,4 +1,4 @@
-
+alert("Reload after every turn");
 var randomNumber1=Math.random()*6+1;
 randomNumber1=Math.floor(randomNumber1);
 var randomImage="images/dice"+randomNumber1+".png";
